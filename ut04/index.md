@@ -4,4 +4,4 @@
 
 - [PR0401 - Teoria Python](./ej-teoria-clase/teoria.md)
 
-- [PR0402 - Cadenas](./ej-teoria-clase/pr0402.md)
+- [PR0402 - Cadenas](./pr0402/pr0402.md)
